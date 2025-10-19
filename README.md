@@ -3,12 +3,18 @@
 
 This is a better archive manager developed for Linux systems. Its name is a playful reference to WinRAR. It also supports compression and extraction in the RAR format. However, you must install the RAR package on your system. Since this package is proprietary, it wouldn't be appropriate to include it in the program, and we wanted to leave the choice to the user.
 
-The program has been packaged and made ready for use on Debian-based systems. Bug reports will help further develop the program.
+The program has been packaged and made ready for use on Debian-based systems. 
+
+Bug reports will help further develop the program.
 
 Concept & Project Design: @shampuan
+
 Implementation & Coding: @CekToR
+
 Programming Language: Python
+
 GUI: PyQT5
+
 Licence: GPL
 
 <img width="256" height="256" alt="LinTAR" src="https://github.com/user-attachments/assets/5ccfd140-6544-4d2a-9d9e-393b035e5856" />
